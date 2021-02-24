@@ -1,0 +1,1 @@
+User id: 1, email: "teste@teste", created_at: "2021-02-24 18:17:45", updated_at: "2021-02-24 18:17:45", name: nil, authentication_token: "yrTsAZ_cpaQPLcnzEeBD"
